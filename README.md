@@ -1,6 +1,6 @@
 # pythonGame_Zenva
 
-Files with the basics of Python, from variable sintax  to classes and objects 
+Files with the basics of Python, from variable syntax  to classes and objects 
 and a game using pygames and the basics used on the previous files.
 
 In order to run the files download Python on https://www.python.org/downloads/
